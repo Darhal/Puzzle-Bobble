@@ -49,6 +49,11 @@ Pour les autres plates-formes, vous devez recompiler après avoir lié toutes le
 Merci d'avoir lu
 Auteur: CHIDA Omar
 
+## Images:
+![Alt text](pictures/main_menu.png?raw=true "Main Menu")
+![Alt text](pictures/sp.png?raw=true "Single Player")
+![Alt text](pictures/mp.png?raw=true "Multi Player")
+
 # ---- ENGLISH ----
 
 ## General Info:
@@ -98,3 +103,8 @@ For other platforms you should re-compile after linking all the libraries.
 
 Thanks for reading
 Author: CHIDA Omar
+
+## Pictures:
+![Alt text](pictures/main_menu.png?raw=true "Main Menu")
+![Alt text](pictures/sp.png?raw=true "Single Player")
+![Alt text](pictures/mp.png?raw=true "Multi Player")
