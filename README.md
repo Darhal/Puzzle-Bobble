@@ -5,15 +5,15 @@
 Ce projet a été écrit par CHIDA Mohamed-Omar et BATTIKH Linda en utilisant C languge,
 sous le titre Méthodoligies et conecption
 Le projet utilise la librairie SDL, et le SDL_tff pour montrer le texte,
-Sans SDL_tff Le score ne s'affichera probablement pas et vous devrez remplacer #define TEXT par
-#undef TEXT afin d'éviter les erreurs de compilation:
+Sans SDL_tff Le score ne s'affichera probablement pas et vous devrez remplacer `#define TEXT` par
+`#undef TEXT` afin d'éviter les erreurs de compilation:
 Le logiciel est conçu pour fonctionner avec la bibliothèque SDL_tff et sans cela en activant ou désactivant le TEXT
 
-* POUR INSTALLER SDL_ttf (c'est facile) *
+## POUR INSTALLER SDL_ttf (c'est facile) *
 Pour la machine Linux, vous devez ouvrir un terminal et taper:
 
-sudo apt-get installer libsdl-ttf2.0-dev
-sudo apt-get installer libfreetype6-dev
+`sudo apt-get installer libsdl-ttf2.0-dev
+sudo apt-get installer libfreetype6-dev`
 
 ## Architecture de projet:
 main: entrée principale du jeu tout commence à partir de là
@@ -55,15 +55,15 @@ Auteur: CHIDA Mohamed
 This project has been written by CHIDA Mohamed-Omar and BATTIKH Linda using C languge,
 under the subject Méthodoligies et conecption
 The project use the library SDL, and the SDL_tff for showing the text,
-Without SDL_tff The score won't probably show and you should replace #define TEXT with
-#undef TEXT in order to avoid compile errors:
+Without SDL_tff The score won't probably show and you should replace `#define TEXT` with
+`#undef TEXT` in order to avoid compile errors:
 The software is designed to work with SDL_tff library and without it by enabling or disabling TEXT
 
 *TO INSTALL SDL_ttf (its easy)*
 for linux machine you need to open a terminal and type:
 	
-sudo apt-get install libsdl-ttf2.0-dev
-sudo apt-get install libfreetype6-dev
+`sudo apt-get install libsdl-ttf2.0-dev
+sudo apt-get install libfreetype6-dev`
 
 ## Project Architecture:
 main : main game entry all start from there
@@ -75,7 +75,7 @@ Animation: Module written to manage all game animations and make it easy to work
 utils: contain random function and loadSprite
 list: linked-list module that manage linked list of balls
 
-PS:Board, Ball,Animation: contain the function to free the memory and to avoid memory leaks!
+**PS:** Board, Ball,Animation: contain the function to free the memory and to avoid memory leaks!
 
 ## The project contains:
 -Main menu
