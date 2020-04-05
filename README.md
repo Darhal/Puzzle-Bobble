@@ -2,7 +2,7 @@
 # ---- FRANCAIS ----
 
 ## Informations générales:
-Ce projet a été écrit par CHIDA Mohamed-Omar et BATTIKH Linda en utilisant C languge,
+Ce projet a été écrit par CHIDA Omar et BATTIKH Linda en utilisant C languge,
 sous le titre Méthodoligies et conecption
 Le projet utilise la librairie SDL, et le SDL_tff pour montrer le texte,
 Sans SDL_tff Le score ne s'affichera probablement pas et vous devrez remplacer `#define TEXT` par
@@ -52,7 +52,7 @@ Auteur: CHIDA Mohamed
 # ---- ENGLISH ----
 
 ## General Info:
-This project has been written by CHIDA Mohamed-Omar and BATTIKH Linda using C languge,
+This project has been written by CHIDA Omar and BATTIKH Linda using C languge,
 under the subject Méthodoligies et conecption
 The project use the library SDL, and the SDL_tff for showing the text,
 Without SDL_tff The score won't probably show and you should replace `#define TEXT` with
