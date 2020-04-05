@@ -12,8 +12,8 @@ Le logiciel est conçu pour fonctionner avec la bibliothèque SDL_tff et sans ce
 ## POUR INSTALLER SDL_ttf (c'est facile) *
 Pour la machine Linux, vous devez ouvrir un terminal et taper:
 
-`sudo apt-get installer libsdl-ttf2.0-dev
-sudo apt-get installer libfreetype6-dev`
+`sudo apt-get installer libsdl-ttf2.0-dev`</br>
+`sudo apt-get installer libfreetype6-dev`
 
 ## Architecture de projet:
 main: entrée principale du jeu tout commence à partir de là
@@ -62,8 +62,8 @@ The software is designed to work with SDL_tff library and without it by enabling
 *TO INSTALL SDL_ttf (its easy)*
 for linux machine you need to open a terminal and type:
 	
-`sudo apt-get install libsdl-ttf2.0-dev
-sudo apt-get install libfreetype6-dev`
+`sudo apt-get install libsdl-ttf2.0-dev`</br>
+`sudo apt-get install libfreetype6-dev`
 
 ## Project Architecture:
 main : main game entry all start from there
