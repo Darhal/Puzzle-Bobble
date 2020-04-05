@@ -47,7 +47,7 @@ Ce paquet contient un jeu compilé (prêt à être lancé) (uniquement pour les 
 Pour les autres plates-formes, vous devez recompiler après avoir lié toutes les bibliothèques.
 
 Merci d'avoir lu
-Auteur: CHIDA Mohamed
+Auteur: CHIDA Omar
 
 # ---- ENGLISH ----
 
@@ -97,4 +97,4 @@ This package contain compiled (ready to launch) game (only for linux users)
 For other platforms you should re-compile after linking all the libraries.
 
 Thanks for reading
-Author: CHIDA Mohamed
+Author: CHIDA Omar
