@@ -1,8 +1,7 @@
 # Puzzle-Bobble
----- FRANCAIS ----
-Puzzy Bobble Projet:
+# ---- FRANCAIS ----
 
-*)Informations générales:
+## Informations générales:
 Ce projet a été écrit par CHIDA Mohamed-Omar et BATTIKH Linda en utilisant C languge,
 sous le titre Méthodoligies et conecption
 Le projet utilise la librairie SDL, et le SDL_tff pour montrer le texte,
@@ -16,7 +15,7 @@ Pour la machine Linux, vous devez ouvrir un terminal et taper:
 sudo apt-get installer libsdl-ttf2.0-dev
 sudo apt-get installer libfreetype6-dev
 
-*) Architecture de projet:
+## Architecture de projet:
 main: entrée principale du jeu tout commence à partir de là
 GameManager: responsable et gestionnaire de tous les objets de jeu et responsable de la logique
 Et le nettoyage quand la sortie se produit
@@ -26,34 +25,33 @@ Animation: Module écrit pour gérer toutes les animations du jeu et le rendre f
 utils: contient une fonction aléatoire et loadSprite
 liste: module de liste liée qui gère la liste des boules liées
 
-PS: Board, Ball, Animation: contient la fonction pour libérer la mémoire et éviter les fuites de mémoire!
+**PS:** Board, Ball, Animation: contient la fonction pour libérer la mémoire et éviter les fuites de mémoire!
 
-*) Le projet contient:
+## Le projet contient:
 -Menu principal
 -Signe du mode joueur
 -Mode multijoueur
 -Score montrant
 -Quelques animations
 
-*) Bugs connus:
+##  Bugs connus:
 -Aucun
 
-*)Contrôles :
+## Contrôles :
 - Flèche gauche et droite et espace pour lancer la balle
 - Q et D et L pour lancer la balle pour le deuxième joueur
 - Échapper pour revenir au menu principal pendant l'ingame.
 
-*) Jeu compilé:
+## Jeu compilé:
 Ce paquet contient un jeu compilé (prêt à être lancé) (uniquement pour les utilisateurs de Linux)
 Pour les autres plates-formes, vous devez recompiler après avoir lié toutes les bibliothèques.
 
 Merci d'avoir lu
 Auteur: CHIDA Mohamed
 
----- ENGLISH ----
-Puzzy Bobble Projet : 
+# ---- ENGLISH ----
 
-*)General Info:
+## General Info:
 This project has been written by CHIDA Mohamed-Omar and BATTIKH Linda using C languge,
 under the subject Méthodoligies et conecption
 The project use the library SDL, and the SDL_tff for showing the text,
@@ -67,7 +65,7 @@ for linux machine you need to open a terminal and type:
 sudo apt-get install libsdl-ttf2.0-dev
 sudo apt-get install libfreetype6-dev
 
-*)Project Architecture:
+## Project Architecture:
 main : main game entry all start from there
 GameManager : responsible and manager of all game objects and also responsible for the logic
 	And the clean up when the exit occurs
@@ -79,22 +77,22 @@ list: linked-list module that manage linked list of balls
 
 PS:Board, Ball,Animation: contain the function to free the memory and to avoid memory leaks!
 
-*)The project contains:
+## The project contains:
 -Main menu
 -Signle player mode
 -Multiplayer mode
 -Score showing
 -Some animations
 
-*)Known Bugs:
+## Known Bugs:
 -None
 
-*)Controls : 
+## Controls : 
 - left and right arrow and space to launch the ball
 - Q and D and L to launch the ball for the second player
 - Escape to return to main menu while ingame.
 
-*)Compiled game:
+## Compiled game:
 This package contain compiled (ready to launch) game (only for linux users)
 For other platforms you should re-compile after linking all the libraries.
 
